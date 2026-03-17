@@ -1,0 +1,12 @@
+{
+  "name": "mooc-learner",
+  "version": "1.0.0",
+  "description": "MOOC课程自动学习工具",
+  "main": "scripts/learn-courses.js",
+  "scripts": {
+    "start": "node scripts/learn-courses.js"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
